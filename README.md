@@ -13,7 +13,6 @@ Ensure you have the following installed:
 
 5.) Download the Chrome Driver (https://sites.google.com/a/chromium.org/chromedriver/)
 
-
-Now please download the project and import it into your IDE then simply run the tests. =)
+Now please download the project and import it into your IDE then simply run the classes called "WikipediaTests" and "TravelexTests". =)
 
 Thanks!
